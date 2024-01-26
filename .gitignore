@@ -17,3 +17,4 @@ examples/finance_library_investment_universe_tests.ipynb
 .idea/pyvest.iml
 .idea/.name
 examples/test.py
+.DS_Store
